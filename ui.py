@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from game import Game
-from ai import minimax_alpha_beta  # Import your AI function
+from ai import minimax_alpha_beta  # Import the AI function
 
 class TicTacToeUI:
     def __init__(self):
